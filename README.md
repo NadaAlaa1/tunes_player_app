@@ -1,16 +1,31 @@
-# tunes_player_app
+# 🎵 Tunes Player App
 
-A new Flutter project.
+The **Tunes Player App** is a Flutter-based application that simulates a piano keyboard. It provides a simple, interactive, and user-friendly interface to explore music by playing notes directly on a virtual keyboard.
 
-## Getting Started
+## 🚀 Features
 
-This project is a starting point for a Flutter application.
+- **Interactive Keyboard**: Tap piano keys to produce corresponding sounds with realistic audio effects.
+- **User-Friendly Design**: Intuitive layout suitable for users of all ages and experience levels.
+- **Customization Options**: Control sound features such as volume and octave ranges.
+- **Cross-Platform**: Built with Flutter, ensuring compatibility with Android, iOS, web, and desktop platforms.
 
-A few resources to get you started if this is your first Flutter project:
+## 🎥 Demo
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Check out the app in action below:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Tunes Player Demo](assets/demo.gif)
+
+## 🛠️ Installation
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/NadaAlaa1/tunes_player_app.git
+   cd tunes_player_app
+
+2. **Install dependencies** Ensure Flutter is installed on your system. Then, run the following command:
+   ```bash
+   flutter pub get
+
+3. **Run the App**
+   ```bash
+   flutter run
